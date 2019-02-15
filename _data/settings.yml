@@ -4,7 +4,7 @@ disqus:
   disqus_shortname: ''
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: ''
+#google-ID: ''
 
 menu:
 - {name: 'About', path: 'menu', url: 'about.html'}
@@ -17,7 +17,7 @@ social:
 - {icon: 'twitter', link: 'https://twitter.com/MC_Knaus'}
 - {icon: 'linkedin', link: 'www.linkedin.com/in/michael-c-knaus'}
 - {icon: 'envelope', link: 'mailto:michael.knaus@unisg.ch'}
-- {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Michael_Knaus'}
+#- {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Michael_Knaus'}
 
 
 # Customize site text
