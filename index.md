@@ -5,7 +5,7 @@ title:
 
 I am an Assistant Professor of Econometrics at the [Swiss Institute for Empirical Economic Research](https://sew.unisg.ch/en) of the [University of St. Gallen](https://www.unisg.ch/) and part of the [Data and Method Consulting](https://www.unisg.ch/en/forschung/service/data-consulting) that advices students and faculty regarding their empirical work.
 
-My research interests are at the intersection of causal inference and machine learning to answer questions in empirical economics. In particular I am currently working on the estimation of *average* and *heterogeneous* treatment effects. See my [research section](https://mcknaus.github.io/research.html) for more details.
+My research interests are at the intersection of causal inference and machine learning to answer questions in empirical economics. In particular I am currently working on the estimation of *average* and *heterogeneous* treatment effects. See my [research section](https://mcknaus.github.io/menu/research.html) for more details.
 
 
 ### News
