@@ -9,7 +9,7 @@ disqus:
 menu:
 #- {name: 'About', path: 'menu', url: 'about.html'}
 - {name: 'Research', path: 'menu', url: 'research.html'}
-- {name: 'CV', path: 'menu', url: 'cv.html'}
+- {name: 'CV', path: 'menu', url: 'https://www.dropbox.com/s/09b479jpab6ozks/cv.pdf?dl=0'}
 - {name: 'Contact', path: 'menu', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
