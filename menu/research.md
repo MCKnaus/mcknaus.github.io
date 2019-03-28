@@ -10,7 +10,7 @@ title: Research
 ### Working Papers
 "[Heterogeneous Employment Effects of Job Search Programmes: A Machine Learning Approach](https://arxiv.org/abs/1709.10279)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home), *R&R Journal of Human Resources*
 
-"[Machine Learning Estimation of Heterogeneous Causal Effects: Empirical Monte Carlo Evidence](https://arxiv.org/abs/1810.13237)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home), ([R package](https://github.com/MCKnaus/CATEs))
+"[Machine Learning Estimation of Heterogeneous Causal Effects: Empirical Monte Carlo Evidence](https://arxiv.org/abs/1810.13237)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home), ([R package](https://github.com/MCKnaus/CATEs),[Poster](assets/pdfs/Poster_EuroCIM2019.pdf))
 
 "[Predicting Match Outcomes in Football by an Ordered Forest Estimator](https://www.researchgate.net/publication/328486514_Predicting_Match_Outcomes_in_Football_by_an_Ordered_Forest_Estimator)", with Daniel Goller, [Michael Lechner](https://www.michael-lechner.eu/) and Gabriel Okasa
 
