@@ -10,6 +10,8 @@ My research interests are at the intersection of causal inference and machine le
 
 ### News
 
+* 27.03.2019: [Poster](assets/pdfs/Poster_EuroCIM2019.pdf) "Machine Learning Estimation of Heterogeneous Causal Effects: Empirical Monte Carlo Evidence" at the [EuroCIM2019](https://eurocim2019.bips.eu/home.html)
+
 * 17.12.2018: Update of "Machine Learning Estimation of Heterogeneous Causal Effects: Empirical Monte Carlo Evidence" on [arXiv](https://arxiv.org/abs/1810.13237) and upload of R-Package [CATEs](https://github.com/MCKnaus/CATEs) to implement the considered estimators
 
 * 31.10.2018: Pre-print of "Machine Learning Estimation of Heterogeneous Causal Effects: Empirical Monte Carlo Evidence", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home) available on [ResearchGate](https://www.researchgate.net/publication/328630913_Machine_Learning_Estimation_of_Heterogeneous_Causal_Effects_Empirical_Monte_Carlo_Evidence)
