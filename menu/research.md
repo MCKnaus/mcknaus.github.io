@@ -4,7 +4,7 @@ title: Research
 ---
 
 ### Publications
-"[Work Hour Mismatch and Job Mobility: Adjustment Channels and Resolution Rates](https://onlinelibrary.wiley.com/doi/full/10.1111/ecin.12586)", with Steffen Otterbach, forthcoming, *Economic Inquiry*
+"[Work Hour Mismatch and Job Mobility: Adjustment Channels and Resolution Rates](https://onlinelibrary.wiley.com/doi/full/10.1111/ecin.12586)", with Steffen Otterbach, *Economic Inquiry*, 2019
 
 
 ### Working Papers
