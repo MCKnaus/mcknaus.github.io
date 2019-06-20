@@ -9,7 +9,7 @@ My research interests are at the intersection of causal inference and machine le
 
 
 ### News
-* June 2019: Presenting our paper that [reviews and compares estimators for the estimation of heterogeneous causal effects] (https://arxiv.org/abs/1810.13237) at the [BGSE Summer Forum on "Machine Learning for Economics" in Barcelona](https://www.barcelonagse.eu/summer-forum/workshop-machine-learning-economics) and the [annual conference of the IAAE in Nikosia](http://iaae2019.org/)
+* June 2019: Presenting our paper that [reviews and compares estimators for the estimation of heterogeneous causal effects](https://arxiv.org/abs/1810.13237) at the [BGSE Summer Forum on "Machine Learning for Economics" in Barcelona](https://www.barcelonagse.eu/summer-forum/workshop-machine-learning-economics) and the [annual conference of the IAAE in Nikosia](http://iaae2019.org/)
 
 * 27.03.2019: [Poster](assets/pdfs/Poster_EuroCIM2019.pdf) "Machine Learning Estimation of Heterogeneous Causal Effects: Empirical Monte Carlo Evidence" at the [EuroCIM2019](https://eurocim2019.bips.eu/home.html)
 
