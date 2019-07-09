@@ -8,7 +8,7 @@ I am an Assistant Professor of Econometrics at the [Swiss Institute for Empirica
 My research interests are at the intersection of causal inference and machine learning to answer questions in empirical economics. In particular I am currently working on the estimation of *average* and *heterogeneous* treatment effects. See my [research section](https://mcknaus.github.io/menu/research.html) for more details.
 
 ### News
-* [CALL FOR PAPERS](assets/pdfs/Call for Papers CML workshop.pdf): Workshop on Causal Machine Learning January 20-21, 2019 in St. Gallen, Switzerland; sponsored by the [National Research Programme 75 “Big Data”](http://www.nfp75.ch/en); organized jointly with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home)
+* July 2019: [CALL FOR PAPERS](assets/pdfs/Call for Papers CML workshop.pdf): Workshop on Causal Machine Learning January 20-21, 2019 in St. Gallen, Switzerland; sponsored by the [National Research Programme 75 “Big Data”](http://www.nfp75.ch/en); organized jointly with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home)
 
 * June 2019: Presenting our paper that [reviews and compares estimators for the estimation of heterogeneous causal effects](https://arxiv.org/abs/1810.13237) at the [BGSE Summer Forum on "Machine Learning for Economics" in Barcelona](https://www.barcelonagse.eu/summer-forum/workshop-machine-learning-economics) and the [annual conference of the IAAE in Nikosia](http://iaae2019.org/)
 
