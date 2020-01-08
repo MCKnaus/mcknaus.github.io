@@ -4,9 +4,10 @@ title: Research
 ---
 
 ### Publications
+"[Heterogeneous Employment Effects of Job Search Programmes: A Machine Learning Approach](https://arxiv.org/abs/1709.10279)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home), *Journal of Human Resources*, forthcoming
+
 "[Work Hour Mismatch and Job Mobility: Adjustment Channels and Resolution Rates](https://onlinelibrary.wiley.com/doi/full/10.1111/ecin.12586)", with Steffen Otterbach, *Economic Inquiry*, 57(1), 227-242, 2019
 
-"[Heterogeneous Employment Effects of Job Search Programmes: A Machine Learning Approach](https://arxiv.org/abs/1709.10279)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home), forthcoming, *Journal of Human Resources*
 
 ### Working Papers
 
