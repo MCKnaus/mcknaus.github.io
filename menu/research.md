@@ -3,6 +3,8 @@ layout: page
 title: Research
 ---
 
+See also my [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAAAJ&hl=en&oi=sra) profile.
+
 ### Publications
 "[Heterogeneous Employment Effects of Job Search Programmes: A Machine Learning Approach](https://arxiv.org/abs/1709.10279)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home), *Journal of Human Resources*, forthcoming
 
