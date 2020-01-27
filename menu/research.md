@@ -15,7 +15,7 @@ See also my [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAA
 
 "[A Double Machine Learning Approach to Estimate the Effects of Musical Practice on Student's Skills](https://arxiv.org/abs/1805.10300)" ([R package](https://github.com/MCKnaus/dmlmt), [poster]({{ site.url }}/assets/pdfs/Poster_DML.pdf)), *R&R Journal of the Royal Statistical Society: Series A*
 
-"[Machine Learning Estimation of Heterogeneous Causal Effects: Empirical Monte Carlo Evidence](https://arxiv.org/abs/1810.13237)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home), ([R package](https://github.com/MCKnaus/CATEs), [Poster]({{ site.url }}/assets/pdfs/Poster_EuroCIM2019.pdf))
+"[Machine Learning Estimation of Heterogeneous Causal Effects: Empirical Monte Carlo Evidence](https://arxiv.org/abs/1810.13237)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home), ([R package](https://github.com/MCKnaus/CATEs), [Poster]({{ site.url }}/assets/pdfs/Poster_EuroCIM2019.pdf)), *R&R Econometrics Journal*
 
 "[Predicting Match Outcomes in Football by an Ordered Forest Estimator](https://www.researchgate.net/publication/328486514_Predicting_Match_Outcomes_in_Football_by_an_Ordered_Forest_Estimator)", with Daniel Goller, [Michael Lechner](https://www.michael-lechner.eu/) and Gabriel Okasa
 
