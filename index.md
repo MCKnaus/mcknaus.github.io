@@ -8,6 +8,8 @@ I am an Assistant Professor of Econometrics at the [Swiss Institute for Empirica
 My research interests are at the intersection of causal inference and machine learning to answer questions in empirical economics. In particular I am currently working on the estimation of *average* and *heterogeneous* treatment effects as well as *optimal policy* estimation. See my [research section](https://mcknaus.github.io/menu/research.html) for more details.
 
 ### News
+* March 2020: New preprint "[Double Machine Learning based Program Evaluation under Unconfoundedness](assets/pdfs/Knaus_DML_20200306.pdf)" available
+
 * January 2020: Our first causal machine learning paper "[Heterogeneous Employment Effects of Job Search Programmes: A Machine Learning Approach](https://arxiv.org/abs/1709.10279)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home) got accepted at the Journal of Human Resources
 
 * January 2020: Causal Machine Learning Workshop in St. Gallen sponsored by the [National Research Programme 75 “Big Data”](http://www.nfp75.ch/en) (you find the program [here](https://sew.unisg.ch/en/empirische-wirtschaftsforschung/forschung/economic-policy-and-causal-machine-learning/causal-machine-learning-workshop/) )
