@@ -6,6 +6,8 @@ title: Research
 See also my [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAAAJ&hl=en&oi=sra) profile.
 
 ### Publications
+"[A Double Machine Learning Approach to Estimate the Effects of Musical Practice on Student's Skills](https://arxiv.org/abs/1805.10300)" ([R package](https://github.com/MCKnaus/dmlmt), [poster]({{ site.url }}/assets/pdfs/Poster_DML.pdf)), *Journal of the Royal Statistical Society: Series A*, accepted
+
 "[Machine Learning Estimation of Heterogeneous Causal Effects: Empirical Monte Carlo Evidence](https://arxiv.org/abs/1810.13237)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home), ([R package](https://github.com/MCKnaus/CATEs), [Poster]({{ site.url }}/assets/pdfs/Poster_EuroCIM2019.pdf)), *Econometrics Journal*, forthcoming
 
 "[Heterogeneous Employment Effects of Job Search Programmes: A Machine Learning Approach](https://arxiv.org/abs/1709.10279)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home), *Journal of Human Resources*, forthcoming
@@ -14,8 +16,6 @@ See also my [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAA
 
 
 ### Working Papers
-
-"[A Double Machine Learning Approach to Estimate the Effects of Musical Practice on Student's Skills](https://arxiv.org/abs/1805.10300)" ([R package](https://github.com/MCKnaus/dmlmt), [poster]({{ site.url }}/assets/pdfs/Poster_DML.pdf)), *R&R Journal of the Royal Statistical Society: Series A*
 
 "[Double Machine Learning based Program Evaluation under Unconfoundedness](http://arxiv.org/abs/2003.03191)"
 
