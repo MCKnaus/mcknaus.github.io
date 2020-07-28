@@ -8,11 +8,13 @@ I am an Assistant Professor of Econometrics at the [Swiss Institute for Empirica
 My research interests are at the intersection of causal inference and machine learning to answer questions in empirical economics. In particular I am currently working on the estimation of *average* and *heterogeneous* treatment effects as well as *optimal policy* estimation. See my [research section](https://mcknaus.github.io/menu/research.html) for more details.
 
 ### News
-* May 2020: Paper "Machine Learning Estimation of Heterogeneous Causal Effects: Empirical Monte Carlo Evidence" got accepted at The Econometrics Journal
+* July 2020: Single-authored paper "[A Double Machine Learning Approach to Estimate the Effects of Musical Practice on Student's Skills](https://arxiv.org/abs/1805.10300)" got accepted at the *Journal of the Royal Statistical Society: Series A*
+
+* May 2020: Paper "[Machine Learning Estimation of Heterogeneous Causal Effects: Empirical Monte Carlo Evidence](https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utaa014/5854188?redirectedFrom=fulltext)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter] got accepted at *The Econometrics Journal*
 
 * March 2020: New preprint "[Double Machine Learning based Program Evaluation under Unconfoundedness](http://arxiv.org/abs/2003.03191)" available on [arXiv](http://arxiv.org/abs/2003.03191)
 
-* January 2020: Our first causal machine learning paper "[Heterogeneous Employment Effects of Job Search Programmes: A Machine Learning Approach](https://arxiv.org/abs/1709.10279)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home) got accepted at the Journal of Human Resources
+* January 2020: Our first causal machine learning paper "[Heterogeneous Employment Effects of Job Search Programmes: A Machine Learning Approach](http://jhr.uwpress.org/content/early/2020/03/24/jhr.57.2.0718-9615R1.abstract)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home) got accepted at the *Journal of Human Resources*
 
 * January 2020: Causal Machine Learning Workshop in St. Gallen sponsored by the [National Research Programme 75 “Big Data”](http://www.nfp75.ch/en) (you find the program [here](https://sew.unisg.ch/en/empirische-wirtschaftsforschung/forschung/economic-policy-and-causal-machine-learning/causal-machine-learning-workshop/) )
 
