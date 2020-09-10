@@ -8,6 +8,8 @@ I am an Assistant Professor of Econometrics at the [Swiss Institute for Empirica
 My research interests are at the intersection of causal inference and machine learning to answer questions in empirical economics. In particular I am currently working on the estimation of *average* and *heterogeneous* treatment effects as well as *optimal policy* estimation. See my [research section](https://mcknaus.github.io/menu/research.html) for more details.
 
 ### News
+* September 2020: All chapters of the dissertation published: "[For Better or Worse? - The Effects of Physical Education on Child Development](https://authors.elsevier.com/a/1bj9h3IvSGab0P)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anne K. Reimers](https://www.tu-chemnitz.de/hsw/ab/prof/sportpaedagogik/index.php.en), got accepted at *Labour Economics*
+
 * July 2020: Single-authored paper "[A Double Machine Learning Approach to Estimate the Effects of Musical Practice on Student's Skills](https://arxiv.org/abs/1805.10300)" got accepted at the *Journal of the Royal Statistical Society: Series A*
 
 * May 2020: Paper "[Machine Learning Estimation of Heterogeneous Causal Effects: Empirical Monte Carlo Evidence](https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utaa014/5854188?redirectedFrom=fulltext)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter] got accepted at *The Econometrics Journal*
