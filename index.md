@@ -5,7 +5,7 @@ title:
 
 I am an Assistant Professor of Econometrics at the [Swiss Institute for Empirical Economic Research](https://sew.unisg.ch/en) of the [University of St. Gallen](https://www.unisg.ch/) and part of the [Data and Method Consulting](https://www.unisg.ch/data-consulting) that advices students and faculty regarding their empirical work.
 
-My research interests are at the intersection of causal inference and machine learning to answer questions in empirical economics. In particular I am currently working on the estimation of *average* and *heterogeneous* treatment effects as well as *optimal policy* estimation. See my [research section](https://mcknaus.github.io/menu/research.html) for more details.
+My research interests are at the intersection of causal inference and machine learning to answer questions in empirical, mostly labor, economics. In particular I am currently working on the estimation of *average* and *heterogeneous* treatment effects as well as *optimal policy* estimation. See my [research section](https://mcknaus.github.io/menu/research.html) or [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAAAJ&hl=en) for more details.
 
 ### News
 * September 2020: All chapters of the dissertation published: "[For Better or Worse? - The Effects of Physical Education on Child Development](https://authors.elsevier.com/a/1bj9h3IvSGab0P)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anne K. Reimers](https://www.tu-chemnitz.de/hsw/ab/prof/sportpaedagogik/index.php.en), got accepted at *Labour Economics*
@@ -22,7 +22,7 @@ My research interests are at the intersection of causal inference and machine le
 
 * [CALL FOR PAPERS](assets/pdfs/CfP_CML.pdf): Workshop on Causal Machine Learning, January 20-21, 2019 in St. Gallen, Switzerland; sponsored by the [National Research Programme 75 “Big Data”](http://www.nfp75.ch/en); organized jointly with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home)
 
-* June 2019: Presenting our paper that [reviews and compares estimators for the estimation of heterogeneous causal effects](https://arxiv.org/abs/1810.13237) at the [BGSE Summer Forum on "Machine Learning for Economics" in Barcelona](https://www.barcelonagse.eu/summer-forum/workshop-machine-learning-economics) and the [annual conference of the IAAE in Nikosia](http://iaae2019.org/)
+<-- * June 2019: Presenting our paper that [reviews and compares estimators for the estimation of heterogeneous causal effects](https://arxiv.org/abs/1810.13237) at the [BGSE Summer Forum on "Machine Learning for Economics" in Barcelona](https://www.barcelonagse.eu/summer-forum/workshop-machine-learning-economics) and the [annual conference of the IAAE in Nikosia](http://iaae2019.org/)
 
 * March 2019: [Poster](assets/pdfs/Poster_EuroCIM2019.pdf) "Machine Learning Estimation of Heterogeneous Causal Effects: Empirical Monte Carlo Evidence" at the [EuroCIM2019](https://eurocim2019.bips.eu/home.html)
 
@@ -37,4 +37,4 @@ My research interests are at the intersection of causal inference and machine le
 * April 2018: Oldest chapter of the thesis “Work Hour Mismatch and Job Mobility: Adjustment Channels and Resolution Rates”, with Steffen Otterbach, accepted and published online at *Economic Inquiry*
 
 * March 2018: Public defense of my thesis "Essays in Empirical Economics using Microeconometric
-and Causal Machine Learning Methods" ([slides](assets/pdfs/PD.pdf))
+and Causal Machine Learning Methods" ([slides](assets/pdfs/PD.pdf)) -->
