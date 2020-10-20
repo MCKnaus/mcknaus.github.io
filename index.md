@@ -8,6 +8,8 @@ I am an Assistant Professor of Econometrics at the [Swiss Institute for Empirica
 My research interests are at the intersection of causal inference and machine learning to answer questions in empirical, mostly labor, economics. In particular I am currently working on the estimation of *average* and *heterogeneous* treatment effects as well as *optimal policy* estimation. See my [research section](https://mcknaus.github.io/menu/research.html) or [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAAAJ&hl=en) for more details.
 
 ### News
+* October 2020: Update of "[Double Machine Learning based Program Evaluation under Unconfoundedness](http://arxiv.org/abs/2003.03191)" now with R-package [causalDML](https://github.com/MCKnaus/causalDML) and a [replication notebook]({{ site.url }}/assets/code/Notebook_DML_ALMP_MCK2020.html)
+
 * September 2020: All chapters of the dissertation published: "[For Better or Worse? - The Effects of Physical Education on Child Development](https://authors.elsevier.com/a/1bj9h3IvSGab0P)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anne K. Reimers](https://www.tu-chemnitz.de/hsw/ab/prof/sportpaedagogik/index.php.en), got accepted at *Labour Economics*
 
 * July 2020: Single-authored paper "[A Double Machine Learning Approach to Estimate the Effects of Musical Practice on Student's Skills](https://arxiv.org/abs/1805.10300)" got accepted at the *Journal of the Royal Statistical Society: Series A*
