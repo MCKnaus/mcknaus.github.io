@@ -6,7 +6,7 @@ title: Research
 See also my [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAAAJ&hl=en&oi=sra) profile.
 
 ### Publications
-"A Double Machine Learning Approach to Estimate the Effects of Musical Practice on Student's Skills" ([Journal](http://dx.doi.org/10.1111/rssa.12623), [Preprint](https://arxiv.org/abs/1805.10300), [R package](https://github.com/MCKnaus/dmlmt), [poster]({{ site.url }}/assets/pdfs/Poster_DML.pdf)), *Journal of the Royal Statistical Society: Series A*, forthcoming
+"A Double Machine Learning Approach to Estimate the Effects of Musical Practice on Student's Skills" ([Journal](http://dx.doi.org/10.1111/rssa.12623), [Preprint](https://arxiv.org/abs/1805.10300), [R package](https://github.com/MCKnaus/dmlmt), [Poster]({{ site.url }}/assets/pdfs/Poster_DML.pdf)), *Journal of the Royal Statistical Society: Series A*, forthcoming
 
 "Machine Learning Estimation of Heterogeneous Causal Effects: Empirical Monte Carlo Evidence", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home) ([Journal](https://doi.org/10.1093/ectj/utaa014), [Preprint](https://arxiv.org/abs/1810.13237), [R package](https://github.com/MCKnaus/CATEs), [Poster]({{ site.url }}/assets/pdfs/Poster_EuroCIM2019.pdf)), *Econometrics Journal*, forthcoming
 
