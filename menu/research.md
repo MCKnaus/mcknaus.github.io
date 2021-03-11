@@ -24,4 +24,4 @@ See also my [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAA
 "[Predicting Match Outcomes in Football by an Ordered Forest Estimator](https://www.researchgate.net/publication/328486514_Predicting_Match_Outcomes_in_Football_by_an_Ordered_Forest_Estimator)", with Daniel Goller, [Michael Lechner](https://www.michael-lechner.eu/) and Gabriel Okasa
 
 "[How do Post-Earnings Announcements Sentiment Affect Firms' Dynamics? New Evidence from Causal
-Machine Learning]"(https://www.alexandria.unisg.ch/261799/), with Franscesco Audrino, Jonathan Chassot, Chen Huang, Michael Lechner and Juan-Pablo Ortega
+Machine Learning](https://www.alexandria.unisg.ch/261799/)", with Franscesco Audrino, Jonathan Chassot, Chen Huang, Michael Lechner and Juan-Pablo Ortega
