@@ -8,9 +8,9 @@ I am an Assistant Professor of Econometrics at the [Swiss Institute for Empirica
 My research interests are at the intersection of causal inference and machine learning to answer questions in empirical, mostly labor, economics. In particular I am currently working on the estimation of *average* and *heterogeneous* treatment effects as well as *optimal policy* estimation. See my [research section](https://mcknaus.github.io/menu/research.html) or [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAAAJ&hl=en) for more details.
 
 ### News
-* June 2021: Teaching PhD course in \href{https://www.hche.uni-hamburg.de/veranstaltungen/phd-kurse/2021-04-27-phd-course-michael-knaus-website.pdf}{Supervised and Causal Machine Learning} at the University of Hamburg
+* June 2021: Teaching PhD course in [Supervised and Causal Machine Learning](https://www.hche.uni-hamburg.de/veranstaltungen/phd-kurse/2021-04-27-phd-course-michael-knaus-website.pdf) at the University of Hamburg
 
-* March 2021: Teaching PhD course in \href{https://training.gesis.org/?site=pDetails&child=full&pID=0xD06A3B3C765F41F790F6DFED58D35469&subID=0x69CDB480C7E04E5A96AD3925F7531FE3&lang=en_US}{Causal Machine Learning} at the GESIS Leibniz Institute for the Social Sciences
+* March 2021: Teaching PhD course in [Causal Machine Learning](https://training.gesis.org/?site=pDetails&child=full&pID=0xD06A3B3C765F41F790F6DFED58D35469&subID=0x69CDB480C7E04E5A96AD3925F7531FE3&lang=en_US) at the GESIS Leibniz Institute for the Social Sciences
 
 * January 2021: Paper "[Machine Learning Estimation of Heterogeneous Causal Effects: Empirical Monte Carlo Evidence](https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utaa014/5854188?redirectedFrom=fulltext)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter] published at *The Econometrics Journal*
 
