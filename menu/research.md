@@ -19,7 +19,7 @@ See also my [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAA
 
 ### Working Papers
 
-"[Double Machine Learning based Program Evaluation under Unconfoundedness](http://arxiv.org/abs/2003.03191)" ([R package](https://github.com/MCKnaus/causalDML), [Notebook]({{ site.url }}/assets/code/Notebook_DML_ALMP_MCK2020.html))
+"[Double Machine Learning based Program Evaluation under Unconfoundedness](http://arxiv.org/abs/2003.03191)" ([R package](https://github.com/MCKnaus/causalDML), [Notebook]({{ site.url }}/assets/code/Notebook_DML_ALMP_MCK2020.html)), R&R at Econometrics Journal
 
 "[Predicting Match Outcomes in Football by an Ordered Forest Estimator](https://www.researchgate.net/publication/328486514_Predicting_Match_Outcomes_in_Football_by_an_Ordered_Forest_Estimator)", with Daniel Goller, [Michael Lechner](https://www.michael-lechner.eu/) and Gabriel Okasa
 
