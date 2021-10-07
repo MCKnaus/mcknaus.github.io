@@ -21,7 +21,7 @@ See also my [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAA
 
 "[Double Machine Learning based Program Evaluation under Unconfoundedness](http://arxiv.org/abs/2003.03191)" ([R package](https://github.com/MCKnaus/causalDML), [Replication Notebook]({{ site.url }}/assets/code/Notebook_DML_ALMP_MCK2020.html)), conditionally accepted at *The Econometrics Journal*
 
-"[Effect or Treatment Heterogeneity? Policy Evaluation with Aggregated and Disaggregated Treatments](https://arxiv.org/abs/2110.01427)", with [Phillip Heiler](https://pure.au.dk/portal/en/persons/phillip-heiler(0edac9c1-832b-4455-8865-1d71b3bdb91a).html) ([R package](https://github.com/MCKnaus/causalDML/blob/master/R/HK_decomposition.R), [Replication Notebook 1]({{ site.url }}/assets/code/Replication_NB_smoking.nb.html), [Replication Notebook 2]({{ site.url }}/assets/code/Replication_NB_JC.nb.html))
+"[Effect or Treatment Heterogeneity? Policy Evaluation with Aggregated and Disaggregated Treatments](https://arxiv.org/abs/2110.01427)", with [Phillip Heiler](https://pure.au.dk/portal/en/persons/phillip-heiler(0edac9c1-832b-4455-8865-1d71b3bdb91a).html) ([R implementation](https://github.com/MCKnaus/causalDML/blob/master/R/HK_decomposition.R), [Replication Notebook 1]({{ site.url }}/assets/code/Replication_NB_smoking.nb.html), [Replication Notebook 2]({{ site.url }}/assets/code/Replication_NB_JC.nb.html))
 
 "[Predicting Match Outcomes in Football by an Ordered Forest Estimator](https://www.researchgate.net/publication/328486514_Predicting_Match_Outcomes_in_Football_by_an_Ordered_Forest_Estimator)", with Daniel Goller, [Michael Lechner](https://www.michael-lechner.eu/) and Gabriel Okasa
 
