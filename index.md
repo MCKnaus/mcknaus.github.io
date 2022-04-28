@@ -8,7 +8,7 @@ I am an Assistant Professor of Econometrics at the [Swiss Institute for Empirica
 My research interests are at the intersection of causal inference and machine learning to answer questions in empirical, mostly labor, economics. In particular I am currently working on the estimation of *average* and *heterogeneous* treatment effects as well as *optimal policy* estimation. See my [research section](https://mcknaus.github.io/menu/research.html) or [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAAAJ&hl=en) for more details.
 
 ### News
-* February 2022: I accepted a tenure track position at the [University of Tübingen](https://uni-tuebingen.de/en/faculties/faculty-of-economics-and-social-sciences/subjects/school-of-business-and-economics/school-of-business-and-economics/business-and-economics/top-news/newsfullview-wiwi-top-news-aktuell/article/new-professor-michael-knaus/). I am looking forward to the start in August 2022.
+* February 2022: I am excited to start a tenure track position at the [University of Tübingen](https://uni-tuebingen.de/en/faculties/faculty-of-economics-and-social-sciences/subjects/school-of-business-and-economics/school-of-business-and-economics/business-and-economics/top-news/newsfullview-wiwi-top-news-aktuell/article/new-professor-michael-knaus/) in August 2022.
 
 * October 2021: New working paper with [Phillip Heiler](https://pure.au.dk/portal/en/persons/phillip-heiler(0edac9c1-832b-4455-8865-1d71b3bdb91a).html) called "Effect or Treatment Heterogeneity? Policy Evaluation with Aggregated and Disaggregated Treatments" available on [arXiv](https://arxiv.org/abs/2110.01427)
 
