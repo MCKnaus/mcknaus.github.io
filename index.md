@@ -8,6 +8,8 @@ I am an Assistant Professor of Econometrics at the [Swiss Institute for Empirica
 My research interests are at the intersection of causal inference and machine learning to answer questions in empirical, mostly labor, economics. In particular I am currently working on the estimation of *average* and *heterogeneous* treatment effects as well as *optimal policy* estimation. See my [research section](https://mcknaus.github.io/menu/research.html) or [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAAAJ&hl=en) for more details.
 
 ### News
+* June 2022: Paper "[Double Machine Learning based Program Evaluation under Unconfoundedness](https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utaa014/5854188?redirectedFrom=fulltext)" is now forthcoming at *The Econometrics Journal*
+
 * February 2022: I am excited to start a tenure track position at the [University of Tübingen](https://uni-tuebingen.de/en/faculties/faculty-of-economics-and-social-sciences/subjects/school-of-business-and-economics/school-of-business-and-economics/business-and-economics/top-news/newsfullview-wiwi-top-news-aktuell/article/new-professor-michael-knaus/) in August 2022.
 
 * October 2021: New working paper with [Phillip Heiler](https://pure.au.dk/portal/en/persons/phillip-heiler(0edac9c1-832b-4455-8865-1d71b3bdb91a).html) called "Effect or Treatment Heterogeneity? Policy Evaluation with Aggregated and Disaggregated Treatments" available on [arXiv](https://arxiv.org/abs/2110.01427)
@@ -26,13 +28,13 @@ My research interests are at the intersection of causal inference and machine le
 
 * March 2020: New preprint "[Double Machine Learning based Program Evaluation under Unconfoundedness](http://arxiv.org/abs/2003.03191)" available on [arXiv](http://arxiv.org/abs/2003.03191)
 
+
+
+<!--- 
 * January 2020: Our first causal machine learning paper "[Heterogeneous Employment Effects of Job Search Programmes: A Machine Learning Approach](http://jhr.uwpress.org/content/early/2020/03/24/jhr.57.2.0718-9615R1.abstract)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home) got accepted at the *Journal of Human Resources*
-
 * January 2020: Causal Machine Learning Workshop in St. Gallen sponsored by the [National Research Programme 75 “Big Data”](http://www.nfp75.ch/en) (you find the program [here](https://sew.unisg.ch/en/empirische-wirtschaftsforschung/forschung/economic-policy-and-causal-machine-learning/causal-machine-learning-workshop/) )
-
 * [CALL FOR PAPERS](assets/pdfs/CfP_CML.pdf): Workshop on Causal Machine Learning, January 20-21, 2019 in St. Gallen, Switzerland; sponsored by the [National Research Programme 75 “Big Data”](http://www.nfp75.ch/en); organized jointly with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home)
-
-<!--- * June 2019: Presenting our paper that [reviews and compares estimators for the estimation of heterogeneous causal effects](https://arxiv.org/abs/1810.13237) at the [BGSE Summer Forum on "Machine Learning for Economics" in Barcelona](https://www.barcelonagse.eu/summer-forum/workshop-machine-learning-economics) and the [annual conference of the IAAE in Nikosia](http://iaae2019.org/)
+* June 2019: Presenting our paper that [reviews and compares estimators for the estimation of heterogeneous causal effects](https://arxiv.org/abs/1810.13237) at the [BGSE Summer Forum on "Machine Learning for Economics" in Barcelona](https://www.barcelonagse.eu/summer-forum/workshop-machine-learning-economics) and the [annual conference of the IAAE in Nikosia](http://iaae2019.org/)
 * March 2019: [Poster](assets/pdfs/Poster_EuroCIM2019.pdf) "Machine Learning Estimation of Heterogeneous Causal Effects: Empirical Monte Carlo Evidence" at the [EuroCIM2019](https://eurocim2019.bips.eu/home.html)
 * December 2018: Update of "Machine Learning Estimation of Heterogeneous Causal Effects: Empirical Monte Carlo Evidence" on [arXiv](https://arxiv.org/abs/1810.13237) and upload of R-Package [CATEs](https://github.com/MCKnaus/CATEs) to implement the considered estimators
 * October 2018: Pre-print of "Machine Learning Estimation of Heterogeneous Causal Effects: Empirical Monte Carlo Evidence", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home) available on [ResearchGate](https://www.researchgate.net/publication/328630913_Machine_Learning_Estimation_of_Heterogeneous_Causal_Effects_Empirical_Monte_Carlo_Evidence)
