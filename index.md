@@ -8,7 +8,7 @@ I am an Assistant Professor of Econometrics at the [Swiss Institute for Empirica
 My research interests are at the intersection of causal inference and machine learning to answer questions in empirical, mostly labor, economics. In particular I am currently working on the estimation of *average* and *heterogeneous* treatment effects as well as *optimal policy* estimation. See my [research section](https://mcknaus.github.io/menu/research.html) or [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAAAJ&hl=en) for more details.
 
 ### News
-* June 2022: Paper "[Double Machine Learning based Program Evaluation under Unconfoundedness](https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utaa014/5854188?redirectedFrom=fulltext)" is now forthcoming at *The Econometrics Journal*
+* June 2022: Paper "[Double Machine Learning based Program Evaluation under Unconfoundedness](https://academic.oup.com/ectj/advance-article/doi/10.1093/ectj/utac015/6596870?guestAccessKey=1c5e58e1-ef2d-4067-b63d-e6f573c359eb)" is now forthcoming at *The Econometrics Journal*
 
 * February 2022: I am excited to start a tenure track position at the [University of Tübingen](https://uni-tuebingen.de/en/faculties/faculty-of-economics-and-social-sciences/subjects/school-of-business-and-economics/school-of-business-and-economics/business-and-economics/top-news/newsfullview-wiwi-top-news-aktuell/article/new-professor-michael-knaus/) in August 2022.
 
