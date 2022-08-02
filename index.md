@@ -3,14 +3,14 @@ layout: page
 title: 
 ---
 
-I am an Assistant Professor of Econometrics at the [Swiss Institute for Empirical Economic Research](https://sew.unisg.ch/en) of the [University of St. Gallen](https://www.unisg.ch/) and part of the [Data and Method Consulting](https://www.unisg.ch/data-consulting) that advices students and faculty regarding their empirical work. I am moving to a tenure track position at the University of Tübingen in August 2022.
+I am an Assistant Professor of "Data Science in Economics" at the [School of Business and Economics]([https://sew.unisg.ch/en](https://uni-tuebingen.de/en/faculties/faculty-of-economics-and-social-sciences/subjects/school-of-business-and-economics/school-of-business-and-economics/business-and-economics/)) of the [University of Tübingen]([https://www.unisg.ch/](https://uni-tuebingen.de/en/)).
 
-My research interests are at the intersection of causal inference and machine learning to answer questions in empirical, mostly labor, economics. In particular I am currently working on the estimation of *average* and *heterogeneous* treatment effects as well as *optimal policy* estimation. See my [research section](https://mcknaus.github.io/menu/research.html) or [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAAAJ&hl=en) for more details.
+My research interests are at the intersection of causal inference and machine learning to answer questions in empirical, mostly labor, economics. In particular I am currently working on the estimation of *average* and *heterogeneous* treatment effects as well as *policy learning*. See my [research section](https://mcknaus.github.io/menu/research.html) or [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAAAJ&hl=en) for more details.
 
 ### News
-* June 2022: Paper "[Double Machine Learning based Program Evaluation under Unconfoundedness](https://academic.oup.com/ectj/advance-article/doi/10.1093/ectj/utac015/6596870?guestAccessKey=1c5e58e1-ef2d-4067-b63d-e6f573c359eb)" is now forthcoming at *The Econometrics Journal*
+* August 2022: I am excited to start my tenure track position at the [University of Tübingen](https://uni-tuebingen.de/en/faculties/faculty-of-economics-and-social-sciences/subjects/school-of-business-and-economics/school-of-business-and-economics/business-and-economics/top-news/newsfullview-wiwi-top-news-aktuell/article/new-professor-michael-knaus/).
 
-* February 2022: I am excited to start a tenure track position at the [University of Tübingen](https://uni-tuebingen.de/en/faculties/faculty-of-economics-and-social-sciences/subjects/school-of-business-and-economics/school-of-business-and-economics/business-and-economics/top-news/newsfullview-wiwi-top-news-aktuell/article/new-professor-michael-knaus/) in August 2022.
+* June 2022: Paper "[Double Machine Learning based Program Evaluation under Unconfoundedness](https://academic.oup.com/ectj/advance-article/doi/10.1093/ectj/utac015/6596870?guestAccessKey=1c5e58e1-ef2d-4067-b63d-e6f573c359eb)" is now forthcoming at *The Econometrics Journal*
 
 * October 2021: New working paper with [Phillip Heiler](https://pure.au.dk/portal/en/persons/phillip-heiler(0edac9c1-832b-4455-8865-1d71b3bdb91a).html) called "Effect or Treatment Heterogeneity? Policy Evaluation with Aggregated and Disaggregated Treatments" available on [arXiv](https://arxiv.org/abs/2110.01427)
 
