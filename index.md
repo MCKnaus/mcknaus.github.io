@@ -8,9 +8,13 @@ I am an Assistant Professor of "Data Science in Economics" at the [School of Bus
 My research interests are at the intersection of causal inference and machine learning to answer questions in empirical, mostly labor, economics. In particular I am currently working on the estimation of *average* and *heterogeneous* treatment effects as well as *policy learning*. See my [research section](https://mcknaus.github.io/menu/research.html) or [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAAAJ&hl=en) for more details.
 
 ### News
+* September 2022: Paper "[Double Machine Learning based Program Evaluation under Unconfoundedness](https://academic.oup.com/ectj/advance-article/doi/10.1093/ectj/utac015/6596870?guestAccessKey=1c5e58e1-ef2d-4067-b63d-e6f573c359eb)" published at *The Econometrics Journal*
+
+* September 2022: Update of working paper with [Phillip Heiler](https://pure.au.dk/portal/en/persons/phillip-heiler(0edac9c1-832b-4455-8865-1d71b3bdb91a).html) called "Effect or Treatment Heterogeneity? Policy Evaluation with Aggregated and Disaggregated Treatments" available on [arXiv](https://arxiv.org/abs/2110.01427)
+
 * August 2022: I am excited to start my tenure track position at the [University of Tübingen](https://uni-tuebingen.de/en/faculties/faculty-of-economics-and-social-sciences/subjects/school-of-business-and-economics/school-of-business-and-economics/business-and-economics/top-news/newsfullview-wiwi-top-news-aktuell/article/new-professor-michael-knaus/).
 
-* June 2022: Paper "[Double Machine Learning based Program Evaluation under Unconfoundedness](https://academic.oup.com/ectj/advance-article/doi/10.1093/ectj/utac015/6596870?guestAccessKey=1c5e58e1-ef2d-4067-b63d-e6f573c359eb)" is now forthcoming at *The Econometrics Journal*
+* August 2022: [Simulation paper](https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utaa014/5854188?redirectedFrom=fulltext) with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](https://www.anthonystrittmatter.com/) one of the [Top Cited Papers of *The Econometrics Journal*](https://academic.oup.com/ectj/pages/top_cited_papers), means free access until end of the year
 
 * October 2021: New working paper with [Phillip Heiler](https://pure.au.dk/portal/en/persons/phillip-heiler(0edac9c1-832b-4455-8865-1d71b3bdb91a).html) called "Effect or Treatment Heterogeneity? Policy Evaluation with Aggregated and Disaggregated Treatments" available on [arXiv](https://arxiv.org/abs/2110.01427)
 
@@ -22,15 +26,12 @@ My research interests are at the intersection of causal inference and machine le
 
 * January 2021: Single-authored paper "[A Double Machine Learning Approach to Estimate the Effects of Musical Practice on Student's Skills](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/rssa.12623)" published at the *Journal of the Royal Statistical Society: Series A*
 
-* October 2020: Update of "[Double Machine Learning based Program Evaluation under Unconfoundedness](http://arxiv.org/abs/2003.03191)" now with R-package [causalDML](https://github.com/MCKnaus/causalDML) and a [replication notebook]({{ site.url }}/assets/code/Notebook_DML_ALMP_MCK2020.html)
-
-* September 2020: "[For Better or Worse? - The Effects of Physical Education on Child Development](https://authors.elsevier.com/a/1bj9h3IvSGab0P)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anne K. Reimers](https://www.tu-chemnitz.de/hsw/ab/prof/sportpaedagogik/index.php.en), published at *Labour Economics*
-
-* March 2020: New preprint "[Double Machine Learning based Program Evaluation under Unconfoundedness](http://arxiv.org/abs/2003.03191)" available on [arXiv](http://arxiv.org/abs/2003.03191)
-
-
 
 <!--- 
+
+* October 2020: Update of "[Double Machine Learning based Program Evaluation under Unconfoundedness](http://arxiv.org/abs/2003.03191)" now with R-package [causalDML](https://github.com/MCKnaus/causalDML) and a [replication notebook]({{ site.url }}/assets/code/Notebook_DML_ALMP_MCK2020.html)
+* September 2020: "[For Better or Worse? - The Effects of Physical Education on Child Development](https://authors.elsevier.com/a/1bj9h3IvSGab0P)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anne K. Reimers](https://www.tu-chemnitz.de/hsw/ab/prof/sportpaedagogik/index.php.en), published at *Labour Economics*
+* March 2020: New preprint "[Double Machine Learning based Program Evaluation under Unconfoundedness](http://arxiv.org/abs/2003.03191)" available on [arXiv](http://arxiv.org/abs/2003.03191)
 * January 2020: Our first causal machine learning paper "[Heterogeneous Employment Effects of Job Search Programmes: A Machine Learning Approach](http://jhr.uwpress.org/content/early/2020/03/24/jhr.57.2.0718-9615R1.abstract)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home) got accepted at the *Journal of Human Resources*
 * January 2020: Causal Machine Learning Workshop in St. Gallen sponsored by the [National Research Programme 75 “Big Data”](http://www.nfp75.ch/en) (you find the program [here](https://sew.unisg.ch/en/empirische-wirtschaftsforschung/forschung/economic-policy-and-causal-machine-learning/causal-machine-learning-workshop/) )
 * [CALL FOR PAPERS](assets/pdfs/CfP_CML.pdf): Workshop on Causal Machine Learning, January 20-21, 2019 in St. Gallen, Switzerland; sponsored by the [National Research Programme 75 “Big Data”](http://www.nfp75.ch/en); organized jointly with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home)
