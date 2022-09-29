@@ -7,7 +7,7 @@ See also my [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAA
 
 ### Publications
 
-"Double Machine Learning based Program Evaluation under Unconfoundedness" ([Journal](https://academic.oup.com/ectj/article/25/3/602/6596870?guestAccessKey=00a57dcc-6a6e-46e5-8499-e7e4f868dfc4), [Preprint](https://arxiv.org/abs/2003.03191)[R package](https://github.com/MCKnaus/causalDML), [Replication Notebook]({{ site.url }}/assets/code/Notebook_DML_ALMP_MCK2022.html)), *The Econometrics Journal*, 25(3), 602-627, 2022
+"Double Machine Learning based Program Evaluation under Unconfoundedness" ([Journal](https://academic.oup.com/ectj/article/25/3/602/6596870?guestAccessKey=00a57dcc-6a6e-46e5-8499-e7e4f868dfc4), [Preprint](https://arxiv.org/abs/2003.03191), [R package](https://github.com/MCKnaus/causalDML), [Replication Notebook]({{ site.url }}/assets/code/Notebook_DML_ALMP_MCK2022.html)), *The Econometrics Journal*, 25(3), 602-627, 2022
 
 "Heterogeneous Employment Effects of Job Search Programmes: A Machine Learning Approach", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](http://www.anthonystrittmatter.com/home) ([Journal](http://jhr.uwpress.org/content/early/2020/03/24/jhr.57.2.0718-9615R1.abstract), [Preprint](https://arxiv.org/abs/1709.10279)), *Journal of Human Resources*, 57(2), 597-636, 2022
 
