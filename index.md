@@ -5,7 +5,7 @@ title:
 
 I am an Assistant Professor of "Data Science in Economics" at the [School of Business and Economics]([https://sew.unisg.ch/en](https://uni-tuebingen.de/en/faculties/faculty-of-economics-and-social-sciences/subjects/school-of-business-and-economics/school-of-business-and-economics/business-and-economics/)) of the [University of Tübingen]([https://www.unisg.ch/](https://uni-tuebingen.de/en/)).
 
-My research interests are at the intersection of causal inference and machine learning to answer questions in empirical, mostly labor, economics. In particular I am currently working on the estimation of *average* and *heterogeneous* treatment effects as well as *policy learning*. See my [research section](https://mcknaus.github.io/menu/research.html) or [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAAAJ&hl=en) for more details.
+My research interests are at the intersection of causal inference and machine learning to answer questions in empirical, mostly labor, economics. In particular I am currently working on the estimation of *average* and *heterogeneous* treatment effects as well as *policy learning*. See my [research section](https://mcknaus.github.io/menu/research.html) or [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAAAJ&hl=en) for more details and follow me on <a rel="me" href="https://econtwitter.net/@MCKnaus">Mastodon</a> or [Twitter](https://twitter.com/MC_Knaus) for news.
 
 ### News
 * September 2022: Paper "[Double Machine Learning based Program Evaluation under Unconfoundedness](https://academic.oup.com/ectj/advance-article/doi/10.1093/ectj/utac015/6596870?guestAccessKey=1c5e58e1-ef2d-4067-b63d-e6f573c359eb)" published at *The Econometrics Journal*
