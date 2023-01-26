@@ -19,8 +19,6 @@ social:
 - {icon: 'twitter', link: 'https://twitter.com/MC_Knaus'}
 - {icon: 'linkedin', link: 'www.linkedin.com/in/michael-c-knaus'}
 - {icon: 'envelope', link: 'mailto:michael.knaus@unisg.ch'}
-- {icon: 'mastodon', link: 'https://econtwitter.net/@MCKnaus'}
-
 
 # Customize site text
 pagination:
