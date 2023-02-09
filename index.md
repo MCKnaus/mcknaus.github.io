@@ -8,6 +8,8 @@ I am an Assistant Professor of "Data Science in Economics" at the [School of Bus
 My research interests are at the intersection of causal inference and machine learning to answer questions in empirical, mostly labor, economics. In particular I am currently working on the estimation of *average* and *heterogeneous* treatment effects as well as *policy learning*. See my [research section](https://mcknaus.github.io/menu/research.html) or [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAAAJ&hl=en) for more details and follow me on <a rel="me" href="https://econtwitter.net/@MCKnaus">Mastodon</a> or [Twitter](https://twitter.com/MC_Knaus) for news.
 
 ### News
+* January 2023: Check out the nice drawings of my students as part of the "Causal Christmas Tree Challenge" collected in this [notebook](https://mcknaus.github.io/assets/cctc/Causal_Christmas_Tree_Challenge2022.html)
+
 * September 2022: Paper "[Double Machine Learning based Program Evaluation under Unconfoundedness](https://academic.oup.com/ectj/advance-article/doi/10.1093/ectj/utac015/6596870?guestAccessKey=1c5e58e1-ef2d-4067-b63d-e6f573c359eb)" published at *The Econometrics Journal*
 
 * September 2022: Update of working paper with [Phillip Heiler](https://pure.au.dk/portal/en/persons/phillip-heiler(0edac9c1-832b-4455-8865-1d71b3bdb91a).html) "Effect or Treatment Heterogeneity? Policy Evaluation with Aggregated and Disaggregated Treatments" available on [arXiv](https://arxiv.org/abs/2110.01427)
