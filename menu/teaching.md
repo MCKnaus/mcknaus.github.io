@@ -31,7 +31,7 @@ SNB_OLS_in_vs_out_of_sample.nb.html)
 
 ### Application notebooks 
 
-These R notebooks use the *pension* dataset of [Chernozhukov and Hansen (2004)](https://doi.org/10.1162/0034653041811734) that are provded by the [hdm](https://cran.r-project.org/web/packages/hdm/index.html) package. Focus is on hand-coding the methods to see how they work.
+These R notebooks use the *pension* dataset of [Chernozhukov and Hansen (2004)](https://doi.org/10.1162/0034653041811734) that is part of the [hdm](https://cran.r-project.org/web/packages/hdm/index.html) package. Focus is on hand-coding the methods to see how they work.
 
 - [Basics: OLS and Frisch-Waugh]({{ site.url }}/assets/notebooks/SNB/ANB_401k_OLS_Frisch_Waugh.nb.html)
 - [Supervised ML: Lasso]({{ site.url }}/assets/notebooks/SNB/ANB_401k_Lasso.nb.html)
