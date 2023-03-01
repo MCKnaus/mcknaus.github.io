@@ -11,11 +11,26 @@ title: Teaching
 
 ### Simulation notebooks
 
-You find here a collection of R Notebooks that illustrate concepts and methods with simulated data. You can extract the code by clicking on the top right button and down the Rmd file if you want to run/modify them yourself.
+These R Notebooks illustrate concepts and methods with simulated data. You can extract the code by clicking on the top right button and download the Rmd file to run/modify the code.
 
 - [Basics: Convergence rates]({{ site.url }}/assets/notebooks/SNB/SNB_Convergence_rates.nb)
 - [Supervised ML: Overfitting of OLS and value of training vs. test sample]({{ site.url }}/assets/notebooks/SNB/
 SNB_OLS_in_vs_out_of_sample.nb.html)
+- [Supervised ML: Lasso saves the job of OLS]({{ site.url }}/assets/notebooks/SNB/SNB_Lasso_saves_OLS.nb.html)
 - [Supervised ML: Tree-based methods]({{ site.url }}/assets/notebooks/SNB/SNB_Tree_based.nb.html)
-- [Causal ML: Double Selection]({{ site.url }}/assets/notebooks/SNB/SNB_Lasso_saves_OLS.nb.html)
-- [Supervised ML: Lasso saves the job of OLS]({{ site.url }}/assets/notebooks/SNB/SNB_Double_selection.nb.html)
+- [Causal ML: Why naive model selection fails]({{ site.url }}/assets/notebooks/SNB/SNB_Naive_model_selection.nb.html)
+- [Causal ML: Double Selection]({{ site.url }}/assets/notebooks/SNB/SNB_Double_selection.nb.html)
+- [Causal ML: Partially linear Double ML]({{ site.url }}/assets/notebooks/SNB/SNB_Partially_linear.nb.html)
+- [Causal ML: AIPW Double ML (ATE)]({{ site.url }}/assets/notebooks/SNB/SNB_AIPW_DML.nb.html)
+- [Causal ML: Group Average Treatment Effects]({{ site.url }}/assets/notebooks/SNB/SNB_GATE.nb.html)
+- [Causal ML: Causal Tree and Causal Forest]({{ site.url }}/assets/notebooks/SNB/SNB_Causal_tree_forest.nb.html)
+- [Causal ML: Meta-learner]({{ site.url }}/assets/notebooks/SNB/SNB_Meta_learner.nb.html)
+- [Causal ML: Offline policy learning]({{ site.url }}/assets/notebooks/SNB/SNB_Policy_learning.nb.html)
+- [Causal ML: Multi-armed bandit]({{ site.url }}/assets/notebooks/SNB/SNB_Bandits.nb.html)
+
+
+### Application notebooks 
+
+
+
+
