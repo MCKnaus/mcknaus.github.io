@@ -42,3 +42,10 @@ These R notebooks use the *pension* dataset of [Chernozhukov and Hansen (2004)](
 - [Causal ML: Double ML for group average treatment effects]({{ site.url }}/assets/notebooks/SNB/ANB_401k_GATE.nb.html)
 - [Causal ML: Predicting effects]({{ site.url }}/assets/notebooks/SNB/ANB_401k_Predicting_effects.nb.html)
 - [Causal ML: Offline policy learning]({{ site.url }}/assets/notebooks/SNB/ANB_401k_Policy_learning.nb.html)
+
+
+### Identification notebooks
+
+Showcase the use of DAGs and SWIGs.
+
+- [Causal Inference: DAG and SWIG for RCTs]({{ site.url }}/assets/notebooks/ci/CI_RCT_DAG_SWIG.nb.html)
