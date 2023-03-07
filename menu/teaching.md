@@ -33,15 +33,15 @@ SNB_OLS_in_vs_out_of_sample.nb.html)
 
 These R notebooks use the *pension* dataset of [Chernozhukov and Hansen (2004)](https://doi.org/10.1162/0034653041811734) that is part of the [hdm](https://cran.r-project.org/web/packages/hdm/index.html) package. Focus is on hand-coding the methods to see how they work.
 
-- [Basics: OLS and Frisch-Waugh]({{ site.url }}/assets/notebooks/SNB/ANB_401k_OLS_Frisch_Waugh.nb.html)
-- [Supervised ML: Lasso]({{ site.url }}/assets/notebooks/SNB/ANB_401k_Lasso.nb.html)
-- [Supervised ML: Tree-based methods]({{ site.url }}/assets/notebooks/SNB/ANB_401k_Tree_based.nb.html)
-- [Causal ML: Double Selection and Partially Linear Double ML]({{ site.url }}/assets/notebooks/SNB/ANB_401k_Double_selection_and_partially_linear_DML.nb.html)
-- [Causal ML: Double ML for average treatment effects]({{ site.url }}/assets/notebooks/SNB/ANB_401k_AIPW_DML.nb.html)
-- [Causal ML: Double ML as generic recipe]({{ site.url }}/assets/notebooks/SNB/ANB_401k_Generic_DML.nb.html)
-- [Causal ML: Double ML for group average treatment effects]({{ site.url }}/assets/notebooks/SNB/ANB_401k_GATE.nb.html)
-- [Causal ML: Predicting effects]({{ site.url }}/assets/notebooks/SNB/ANB_401k_Predicting_effects.nb.html)
-- [Causal ML: Offline policy learning]({{ site.url }}/assets/notebooks/SNB/ANB_401k_Policy_learning.nb.html)
+- [Basics: OLS and Frisch-Waugh]({{ site.url }}/assets/notebooks/appl401k/ANB_401k_OLS_Frisch_Waugh.nb.html)
+- [Supervised ML: Lasso]({{ site.url }}/assets/notebooks/appl401k/ANB_401k_Lasso.nb.html)
+- [Supervised ML: Tree-based methods]({{ site.url }}/assets/notebooks/appl401k/ANB_401k_Tree_based.nb.html)
+- [Causal ML: Double Selection and Partially Linear Double ML]({{ site.url }}/assets/notebooks/appl401k/ANB_401k_Double_selection_and_partially_linear_DML.nb.html)
+- [Causal ML: Double ML for average treatment effects]({{ site.url }}/assets/notebooks/appl401k/ANB_401k_AIPW_DML.nb.html)
+- [Causal ML: Double ML as generic recipe]({{ site.url }}/assets/notebooks/appl401k/ANB_401k_Generic_DML.nb.html)
+- [Causal ML: Double ML for group average treatment effects]({{ site.url }}/assets/notebooks/appl401k/ANB_401k_GATE.nb.html)
+- [Causal ML: Predicting effects]({{ site.url }}/assets/notebooks/appl401k/ANB_401k_Predicting_effects.nb.html)
+- [Causal ML: Offline policy learning]({{ site.url }}/assets/notebooks/appl401k/ANB_401k_Policy_learning.nb.html)
 
 
 ### Identification notebooks
