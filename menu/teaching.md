@@ -8,6 +8,10 @@ title: Teaching
 
 [Solutions 2022]({{ site.url }}/assets/cctc/Causal_Christmas_Tree_Challenge2022.html)
 
+### Student shinyapps
+
+Check out the [Causal Forest Fun shinyapp](https://marenbmg.shinyapps.io/causalForest/) my Tübinger Master students prepared as group assignment.
+
 
 ### Simulation notebooks
 
