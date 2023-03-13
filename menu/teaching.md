@@ -5,7 +5,7 @@ title: Teaching
 
 ### Course material
 
-[Causal Machine Learning](https://github.com/MCKnaus/causalML-teaching) (consolidated material of courses taught at Universities Aarhus, Hamburg, Luzern and Tübingen; the GESIS Leibniz Institute for the Social Sciences (Cologne); and the Asian Development Bank) 
+[Causal Machine Learning](https://github.com/MCKnaus/causalML-teaching) (consolidated material of courses taught at Universities Aarhus, Hamburg, Luzern and Tübingen)
 
 ### Causal Christmas Tree Challenge
 
