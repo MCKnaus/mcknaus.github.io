@@ -7,6 +7,8 @@ I am an Assistant Professor of "Data Science in Economics" at the [School of Bus
 
 My research interests are at the intersection of causal inference and machine learning to answer questions in empirical, mostly labor, economics. In particular I am currently working on the estimation of *average* and *heterogeneous* treatment effects as well as *policy learning*. See my [research section](https://mcknaus.github.io/menu/research.html) or [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAAAJ&hl=en) for more details and follow me on <a rel="me" href="https://econtwitter.net/@MCKnaus">Mastodon</a> or [Twitter](https://twitter.com/MC_Knaus) for news.
 
+
+<!--- 
 ### News
 * January 2023: Check out the nice drawings of my students as part of the "Causal Christmas Tree Challenge" collected in this [notebook](https://mcknaus.github.io/assets/cctc/Causal_Christmas_Tree_Challenge2022.html)
 
@@ -27,9 +29,6 @@ My research interests are at the intersection of causal inference and machine le
 * January 2021: Paper "[Machine Learning Estimation of Heterogeneous Causal Effects: Empirical Monte Carlo Evidence](https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utaa014/5854188?redirectedFrom=fulltext)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anthony Strittmatter](https://www.anthonystrittmatter.com/) published at *The Econometrics Journal*
 
 * January 2021: Single-authored paper "[A Double Machine Learning Approach to Estimate the Effects of Musical Practice on Student's Skills](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/rssa.12623)" published at the *Journal of the Royal Statistical Society: Series A*
-
-
-<!--- 
 
 * October 2020: Update of "[Double Machine Learning based Program Evaluation under Unconfoundedness](http://arxiv.org/abs/2003.03191)" now with R-package [causalDML](https://github.com/MCKnaus/causalDML) and a [replication notebook]({{ site.url }}/assets/code/Notebook_DML_ALMP_MCK2020.html)
 * September 2020: "[For Better or Worse? - The Effects of Physical Education on Child Development](https://authors.elsevier.com/a/1bj9h3IvSGab0P)", with [Michael Lechner](https://www.michael-lechner.eu/) and [Anne K. Reimers](https://www.tu-chemnitz.de/hsw/ab/prof/sportpaedagogik/index.php.en), published at *Labour Economics*
