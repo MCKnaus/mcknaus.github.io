@@ -57,3 +57,9 @@ Showcase the use of DAGs and SWIGs.
 
 - [Causal Inference: DAG and SWIG for RCTs]({{ site.url }}/assets/notebooks/ci/CI_RCT_DAG_SWIG.nb.html)
 - [Causal Inference: DAG and SWIG for measured confounding]({{ site.url }}/assets/notebooks/ci/CI_MC_DAG_SWIG.nb.html)
+
+### Basics
+
+Illustrate basic concepts relevant for causal inference and (causal) ML:
+
+- [(Conditional) Independence]({{ site.url }}/assets/notebooks/SNB/SNB_Conditional_Independence.nb.html)
