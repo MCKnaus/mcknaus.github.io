@@ -63,3 +63,4 @@ Showcase the use of DAGs and SWIGs.
 Illustrate basic concepts relevant for causal inference and (causal) ML:
 
 - [(Conditional) Independence]({{ site.url }}/assets/notebooks/SNB/SNB_Conditional_Independence.nb.html)
+- [Influence functions explained using OLS]({{ site.url }}/assets/notebooks/SNB/SNB_Influence_Function_OLS.nb.html)
