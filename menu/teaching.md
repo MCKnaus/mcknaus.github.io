@@ -9,6 +9,7 @@ title: Teaching
 
 ### Causal Christmas Tree Challenge
 [The Challenge]({{ site.url }}/assets/cctc/CCTC.nb.html)
+
 [Solutions 2022]({{ site.url }}/assets/cctc/Causal_Christmas_Tree_Challenge2022.html)
 
 ### Student shinyapps
