@@ -8,7 +8,7 @@ title: Teaching
 [Causal Machine Learning](https://github.com/MCKnaus/causalML-teaching) (consolidated material of courses taught at Universities Aarhus, Hamburg, Luzern and Tübingen)
 
 ### Causal Christmas Tree Challenge
-
+[The Challenge]({{ site.url }}/assets/cctc/CCTC.html)
 [Solutions 2022]({{ site.url }}/assets/cctc/Causal_Christmas_Tree_Challenge2022.html)
 
 ### Student shinyapps
