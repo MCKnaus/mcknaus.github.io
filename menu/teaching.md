@@ -21,11 +21,18 @@ Check out the [Causal Forest Fun shinyapp](https://marenbmg.shinyapps.io/causalF
 
 These R Notebooks illustrate concepts and methods with simulated data. You can extract the code by clicking on the top right button and download the Rmd file to run/modify the code.
 
+#### Basics:
 - [Basics: Convergence rates]({{ site.url }}/assets/notebooks/SNB/SNB_Convergence_rates.nb)
+- [(Conditional) Independence]({{ site.url }}/assets/notebooks/SNB/SNB_Conditional_Independence.nb.html)
+- [Influence functions explained using OLS]({{ site.url }}/assets/notebooks/SNB/SNB_Influence_Function_OLS.nb.html)
+
+#### Supervised ML:
 - [Supervised ML: Overfitting of OLS and value of training vs. test sample]({{ site.url }}/assets/notebooks/SNB/
 SNB_OLS_in_vs_out_of_sample.nb.html)
 - [Supervised ML: Lasso saves the job of OLS]({{ site.url }}/assets/notebooks/SNB/SNB_Lasso_saves_OLS.nb.html)
 - [Supervised ML: Tree-based methods]({{ site.url }}/assets/notebooks/SNB/SNB_Tree_based.nb.html)
+
+#### Causal ML:
 - [Causal ML: Why naive model selection fails]({{ site.url }}/assets/notebooks/SNB/SNB_Naive_model_selection.nb.html)
 - [Causal ML: Double Selection]({{ site.url }}/assets/notebooks/SNB/SNB_Double_selection.nb.html)
 - [Causal ML: Partially linear Double ML]({{ site.url }}/assets/notebooks/SNB/SNB_Partially_linear.nb.html)
@@ -59,9 +66,3 @@ Showcase the use of DAGs and SWIGs.
 - [Causal Inference: DAG and SWIG for RCTs]({{ site.url }}/assets/notebooks/ci/CI_RCT_DAG_SWIG.nb.html)
 - [Causal Inference: DAG and SWIG for measured confounding]({{ site.url }}/assets/notebooks/ci/CI_MC_DAG_SWIG.nb.html)
 
-### Basics
-
-Illustrate basic concepts relevant for causal inference and (causal) ML:
-
-- [(Conditional) Independence]({{ site.url }}/assets/notebooks/SNB/SNB_Conditional_Independence.nb.html)
-- [Influence functions explained using OLS]({{ site.url }}/assets/notebooks/SNB/SNB_Influence_Function_OLS.nb.html)
