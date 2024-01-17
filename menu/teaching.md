@@ -23,8 +23,8 @@ These R Notebooks illustrate concepts and methods with simulated data. You can e
 
 #### Basics:
 - [Basics: Convergence rates]({{ site.url }}/assets/notebooks/SNB/SNB_Convergence_rates.nb)
-- [(Conditional) Independence]({{ site.url }}/assets/notebooks/SNB/SNB_Conditional_Independence.nb.html)
-- [Influence functions explained using OLS]({{ site.url }}/assets/notebooks/SNB/SNB_Influence_Function_OLS.nb.html)
+- [Basics: (Conditional) Independence]({{ site.url }}/assets/notebooks/SNB/SNB_Conditional_Independence.nb.html)
+- [Basics: Influence functions explained using OLS]({{ site.url }}/assets/notebooks/SNB/SNB_Influence_Function_OLS.nb.html)
 
 #### Supervised ML:
 - [Supervised ML: Overfitting of OLS and value of training vs. test sample]({{ site.url }}/assets/notebooks/SNB/
