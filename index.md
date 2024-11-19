@@ -5,7 +5,7 @@ title:
 
 I am an Assistant Professor of "Data Science in Economics" at the [School of Business and Economics](https://uni-tuebingen.de/en/faculties/faculty-of-economics-and-social-sciences/subjects/school-of-business-and-economics/school-of-business-and-economics/business-and-economics/) of the [University of Tübingen](https://uni-tuebingen.de/en/).
 
-My research interests are at the intersection of causal inference and machine learning to answer questions in empirical, mostly labor, economics. In particular I am currently working on the estimation of *average* and *heterogeneous* treatment effects as well as on *policy learning*. See my [research section](https://mcknaus.github.io/menu/research.html) or [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAAAJ&hl=en) for more details and follow me on [Bluesky](https://bsky.app/profile/mcknaus.bsky.social) or [Twitter](https://twitter.com/MC_Knaus) for news.
+My research interests are at the intersection of causal inference and machine learning to answer questions in empirical, mostly labor, economics. In particular, I am interested in the identification, interpretation and estimation of *average* and *heterogeneous* treatment effects as well as in *policy learning*. See my [research section](https://mcknaus.github.io/menu/research.html) or [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAAAJ&hl=en) for more details and follow me on [Bluesky](https://bsky.app/profile/mcknaus.bsky.social) for news.
 
 You find my teaching material on causal machine learning methods for policy evaluation/learning in the [teaching section](https://mcknaus.github.io/menu/teaching.html).
 
