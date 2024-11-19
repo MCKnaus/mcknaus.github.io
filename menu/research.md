@@ -5,7 +5,17 @@ title: Research
 
 See also my [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAAAJ&hl=en&oi=sra) profile.
 
+### Working Papers
+
+"[Treatment Effect Estimators as Weighted Outcomes](https://arxiv.org/abs/2411.11559)", R notebooks: [theory in action I](https://mcknaus.github.io/assets/notebooks/outcome_weights/Theory%20in%20action.nb.html), [theory in action II](https://mcknaus.github.io/assets/code/Notebook_EMCS_illustration_401k.nb.html), [Double ML](https://mcknaus.github.io/assets/code/Notebook_Application_average_401k.nb.html), [grf](https://mcknaus.github.io/assets/code/Notebook_Application_heterogeneous_401k.nb.html), [R package `OutcomeWeights`](https://github.com/MCKnaus/OutcomeWeights))
+
+"[Effect or Treatment Heterogeneity? Policy Evaluation with Aggregated and Disaggregated Treatments](https://arxiv.org/abs/2110.01427)", with [Phillip Heiler](https://pure.au.dk/portal/en/persons/phillip-heiler(0edac9c1-832b-4455-8865-1d71b3bdb91a).html) ([Non-technical slides]({{ site.url }}/assets/pdfs/CDSM22.pdf), [R implementation](https://github.com/MCKnaus/causalDML/blob/master/R/HK_decomposition.R), [Replication Notebook 1]({{ site.url }}/assets/code/Replication_NB_smoking.nb.html), [Replication Notebook 2]({{ site.url }}/assets/code/Replication_NB_JC.nb.html))
+
+
 ### Publications
+
+"[How do Post-Earnings Announcements Sentiment Affect Firms' Dynamics? New Evidence from Causal
+Machine Learning](https://doi.org/10.1093/jjfinec/nbac018)", with Franscesco Audrino, Jonathan Chassot, Chen Huang, Michael Lechner and Juan-Pablo Ortega, *Journal of Financial Econometrics*, 22(3), 575–604, 2024
 
 "Double Machine Learning based Program Evaluation under Unconfoundedness" ([Journal](https://academic.oup.com/ectj/article/25/3/602/6596870?guestAccessKey=00a57dcc-6a6e-46e5-8499-e7e4f868dfc4), [Preprint](https://arxiv.org/abs/2003.03191), [R package](https://github.com/MCKnaus/causalDML), [Replication Notebook]({{ site.url }}/assets/code/Notebook_DML_ALMP_MCK2022.html)), *The Econometrics Journal*, 25(3), 602-627, 2022
 
@@ -20,11 +30,6 @@ See also my [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAA
 "Work Hour Mismatch and Job Mobility: Adjustment Channels and Resolution Rates", with Steffen Otterbach ([Journal](https://onlinelibrary.wiley.com/doi/full/10.1111/ecin.12586), [Preprint](https://www.iza.org/publications/dp/9735)), *Economic Inquiry*, 57(1), 227-242, 2019
 
 
-### Working Papers
+### Book chapters
 
-"[Effect or Treatment Heterogeneity? Policy Evaluation with Aggregated and Disaggregated Treatments](https://arxiv.org/abs/2110.01427)", with [Phillip Heiler](https://pure.au.dk/portal/en/persons/phillip-heiler(0edac9c1-832b-4455-8865-1d71b3bdb91a).html) ([Non-technical slides]({{ site.url }}/assets/pdfs/CDSM22.pdf), [R implementation](https://github.com/MCKnaus/causalDML/blob/master/R/HK_decomposition.R), [Replication Notebook 1]({{ site.url }}/assets/code/Replication_NB_smoking.nb.html), [Replication Notebook 2]({{ site.url }}/assets/code/Replication_NB_JC.nb.html))
-
-"[Predicting Match Outcomes in Football by an Ordered Forest Estimator](https://www.researchgate.net/publication/328486514_Predicting_Match_Outcomes_in_Football_by_an_Ordered_Forest_Estimator)", with Daniel Goller, [Michael Lechner](https://www.michael-lechner.eu/) and Gabriel Okasa
-
-"[How do Post-Earnings Announcements Sentiment Affect Firms' Dynamics? New Evidence from Causal
-Machine Learning](https://www.alexandria.unisg.ch/261799/)", with Franscesco Audrino, Jonathan Chassot, Chen Huang, Michael Lechner and Juan-Pablo Ortega
+"[Predicting Match Outcomes in Football by an Ordered Forest Estimator](https://www.researchgate.net/publication/328486514_Predicting_Match_Outcomes_in_Football_by_an_Ordered_Forest_Estimator)", with Daniel Goller, [Michael Lechner](https://www.michael-lechner.eu/) and Gabriel Okasa, *In A modern guide to sports economics (pp. 335-355). Edward Elgar Publishing.*
