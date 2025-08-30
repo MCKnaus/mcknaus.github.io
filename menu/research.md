@@ -7,7 +7,7 @@ See also my [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAA
 
 ### Working Papers
 
-"[Heterogeneity Analysis with Heterogeneous Treatments]([https://arxiv.org/abs/2110.01427](https://arxiv.org/abs/2507.01517))", with [Phillip Heiler](https://pure.au.dk/portal/en/persons/phillip-heiler(0edac9c1-832b-4455-8865-1d71b3bdb91a).html)
+"[Heterogeneity Analysis with Heterogeneous Treatments](https://arxiv.org/abs/2507.01517)", with [Phillip Heiler](https://pure.au.dk/portal/en/persons/phillip-heiler(0edac9c1-832b-4455-8865-1d71b3bdb91a).html)
 
 "[Treatment Effect Estimators as Weighted Outcomes](https://arxiv.org/abs/2411.11559)", R notebooks: [theory in action I](https://mcknaus.github.io/assets/notebooks/outcome_weights/Theory%20in%20action.nb.html), [theory in action II](https://mcknaus.github.io/assets/code/Notebook_EMCS_illustration_401k.nb.html), [Double ML](https://mcknaus.github.io/assets/code/Notebook_Application_average_401k.nb.html), [grf](https://mcknaus.github.io/assets/code/Notebook_Application_heterogeneous_401k.nb.html), [R package `OutcomeWeights`](https://github.com/MCKnaus/OutcomeWeights))
 
