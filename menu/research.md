@@ -7,11 +7,9 @@ See also my [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAA
 
 ### Working Papers
 
-"[Heterogeneity Analysis with Heterogeneous Treatments](https://arxiv.org/abs/2507.01517)", with [Phillip Heiler](https://pure.au.dk/portal/en/persons/phillip-heiler(0edac9c1-832b-4455-8865-1d71b3bdb91a).html)
+"[Heterogeneity Analysis with Heterogeneous Treatments](https://arxiv.org/abs/2507.01517)", with [Phillip Heiler](https://pure.au.dk/portal/en/persons/phillip-heiler(0edac9c1-832b-4455-8865-1d71b3bdb91a).html), [Replication Notebook](https://mcknaus.github.io/assets/code/RNB_HK2_decomposition.nb.html), [Replication Docker](https://hub.docker.com/repository/docker/mcknaus/hk2_decomposition/general)
 
 "[Treatment Effect Estimators as Weighted Outcomes](https://arxiv.org/abs/2411.11559)", R notebooks: [theory in action I](https://mcknaus.github.io/assets/notebooks/outcome_weights/Theory%20in%20action.nb.html), [theory in action II](https://mcknaus.github.io/assets/code/Notebook_EMCS_illustration_401k.nb.html), [Double ML](https://mcknaus.github.io/assets/code/Notebook_Application_average_401k.nb.html), [grf](https://mcknaus.github.io/assets/code/Notebook_Application_heterogeneous_401k.nb.html), [R package `OutcomeWeights`](https://github.com/MCKnaus/OutcomeWeights))
-
-"[Effect or Treatment Heterogeneity? Policy Evaluation with Aggregated and Disaggregated Treatments](https://arxiv.org/abs/2110.01427)", with [Phillip Heiler](https://pure.au.dk/portal/en/persons/phillip-heiler(0edac9c1-832b-4455-8865-1d71b3bdb91a).html) ([Non-technical slides]({{ site.url }}/assets/pdfs/CDSM22.pdf), [R implementation](https://github.com/MCKnaus/causalDML/blob/master/R/HK_decomposition.R), [Replication Notebook 1]({{ site.url }}/assets/code/Replication_NB_smoking.nb.html), [Replication Notebook 2]({{ site.url }}/assets/code/Replication_NB_JC.nb.html))
 
 "[On the Role of the Zero Conditional Mean Assumption for Causal Inference in Linear Models](https://arxiv.org/abs/2211.09502)", with Federico Crudu, Giovanni Mellace, and Joeri Smits, *forthcoming in Canadian Journal of Economics*
 
@@ -36,3 +34,8 @@ Machine Learning](https://doi.org/10.1093/jjfinec/nbac018)", with Franscesco Aud
 ### Book chapters
 
 "[Predicting Match Outcomes in Football by an Ordered Forest Estimator](https://www.researchgate.net/publication/328486514_Predicting_Match_Outcomes_in_Football_by_an_Ordered_Forest_Estimator)", with Daniel Goller, [Michael Lechner](https://www.michael-lechner.eu/) and Gabriel Okasa, *In A modern guide to sports economics (pp. 335-355). Edward Elgar Publishing.*
+
+
+### Archived / Superseded Working Papers
+
+"[Effect or Treatment Heterogeneity? Policy Evaluation with Aggregated and Disaggregated Treatments](https://arxiv.org/abs/2110.01427)", with [Phillip Heiler](https://pure.au.dk/portal/en/persons/phillip-heiler(0edac9c1-832b-4455-8865-1d71b3bdb91a).html) is superseded by "[Heterogeneity Analysis with Heterogeneous Treatments](https://arxiv.org/abs/2507.01517)"
