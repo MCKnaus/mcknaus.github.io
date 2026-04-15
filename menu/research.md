@@ -16,7 +16,7 @@ See also my [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAA
 
 ### Publications
 
-"[On the Role of the Zero Conditional Mean Assumption for Causal Inference in Linear Models](https://doi.org/10.1111/caje.70028)", with Federico Crudu, Giovanni Mellace, and Joeri Smits, *forthcoming in Canadian Journal of Economics*, 58, 1377-1390, 2025
+"[On the Role of the Zero Conditional Mean Assumption for Causal Inference in Linear Models](https://doi.org/10.1111/caje.70028)", with Federico Crudu, Giovanni Mellace, and Joeri Smits, *Canadian Journal of Economics*, 58, 1377-1390, 2025
 
 "[How do Post-Earnings Announcements Sentiment Affect Firms' Dynamics? New Evidence from Causal
 Machine Learning](https://doi.org/10.1093/jjfinec/nbac018)", with Franscesco Audrino, Jonathan Chassot, Chen Huang, Michael Lechner and Juan-Pablo Ortega, *Journal of Financial Econometrics*, 22(3), 575–604, 2024
