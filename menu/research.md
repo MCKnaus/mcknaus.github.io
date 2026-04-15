@@ -7,13 +7,16 @@ See also my [Google Scholar](https://scholar.google.ch/citations?user=E604REwAAA
 
 ### Working Papers
 
+"[Causal Graphs for Conditional Parallel Trends](https://arxiv.org/abs/2604.12818)", with Henri Pfleiderer
+
 "[Heterogeneity Analysis with Heterogeneous Treatments](https://arxiv.org/abs/2507.01517)", with [Phillip Heiler](https://pure.au.dk/portal/en/persons/phillip-heiler(0edac9c1-832b-4455-8865-1d71b3bdb91a).html) ([Replication Notebook](https://mcknaus.github.io/assets/code/RNB_HK2_decomposition.nb.html), [Replication Docker](https://hub.docker.com/repository/docker/mcknaus/hk2_decomposition/general))
 
 "[Treatment Effect Estimators as Weighted Outcomes](https://arxiv.org/abs/2411.11559)", R notebooks: [theory in action I](https://mcknaus.github.io/assets/notebooks/outcome_weights/Theory%20in%20action.nb.html), [theory in action II](https://mcknaus.github.io/assets/code/Notebook_EMCS_illustration_401k.nb.html), [Double ML](https://mcknaus.github.io/assets/code/Notebook_Application_average_401k.nb.html), [grf](https://mcknaus.github.io/assets/code/Notebook_Application_heterogeneous_401k.nb.html), [R package `OutcomeWeights`](https://github.com/MCKnaus/OutcomeWeights))
 
-"[On the Role of the Zero Conditional Mean Assumption for Causal Inference in Linear Models](https://arxiv.org/abs/2211.09502)", with Federico Crudu, Giovanni Mellace, and Joeri Smits, *forthcoming in Canadian Journal of Economics*
 
 ### Publications
+
+"[On the Role of the Zero Conditional Mean Assumption for Causal Inference in Linear Models](https://doi.org/10.1111/caje.70028)", with Federico Crudu, Giovanni Mellace, and Joeri Smits, *forthcoming in Canadian Journal of Economics*, 58, 1377-1390, 2025
 
 "[How do Post-Earnings Announcements Sentiment Affect Firms' Dynamics? New Evidence from Causal
 Machine Learning](https://doi.org/10.1093/jjfinec/nbac018)", with Franscesco Audrino, Jonathan Chassot, Chen Huang, Michael Lechner and Juan-Pablo Ortega, *Journal of Financial Econometrics*, 22(3), 575–604, 2024
